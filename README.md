@@ -1,2 +1,11 @@
 # Terminator
-[EXPERIMENTAL] Android recompilation for the Wii U.
+[EXPERIMENTAL AND WIP] Android recompilation for the Wii U.
+## Platform support
+* Android 1.x (Petit Four, Cupcake, Donut) - planned
+* Android 2.x (Eclair, Froyo, Gingerbread) - planned
+* Android 3.x (Honeycomb) - planned
+* Android 4.x (Ice Cream Sandwich, Jelly Bean, KitKat) - planned
+* Android 5.x (Lollipop) - planned
+* Android 6.x (Marshmellow) - planned
+* Android 7.x (Nougat) - planned
+* Android 8.x (Oreo) and newer - never
