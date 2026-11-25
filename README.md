@@ -6,6 +6,4 @@
 * Android 3.x (Honeycomb) - planned
 * Android 4.x (Ice Cream Sandwich, Jelly Bean, KitKat) - planned
 * Android 5.x (Lollipop) - planned (64-bit applications: never)
-* Android 6.x (Marshmellow) - planned (64-bit applications: never)
-* Android 7.x (Nougat) - planned (64-bit applications: never)
-* Android 8.x (Oreo) and newer - never
+* Android 6.x (Marshmellow) and later - never
