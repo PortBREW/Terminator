@@ -1,6 +1,7 @@
 # Terminator
 [EXPERIMENTAL AND WIP] Android recompilation for the Wii U.
 ## Platform support
+Native ARM games (or ones using OpenGL) are not supported yet
 * Android 1.x (Petit Four, Cupcake, Donut) - started
 * Android 2.x (Eclair, Froyo, Gingerbread) - started (ARM/x86 games planned)
 * Android 3.x (Honeycomb) - planned
