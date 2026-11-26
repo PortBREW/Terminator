@@ -8,6 +8,6 @@ Native ARM games (or ones using OpenGL) are not supported yet
 * Android 2.x (Eclair, Froyo, Gingerbread) - started (ARM/x86 games planned)
 * Android 3.x (Honeycomb) - planned
 * Android 4.x (Ice Cream Sandwich, Jelly Bean, KitKat) - planned
-* Android 5.x (Lollipop) - considered (64-bit applications: never)
-* Android 6.x (Marshmellow) - considered (64-bit applications: never)
+* Android 5.x (Lollipop) - considered (Dalvik support is removed in this version; 64-bit applications: never)
+* Android 6.x (Marshmellow) - considered (Dalvik support is removed in this version; 64-bit applications: never)
 * Android 7.x and later - never 
