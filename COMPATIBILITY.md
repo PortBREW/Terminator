@@ -1,7 +1,7 @@
 # Game Compatibility List
 | Game | Android Version | Architecture | Status | Notes |
 |---|---|---|---|---
-| Little Python | Android 1.6 | Universal | In-Game | not finished yet |
+| Little Python | Android 1.6 | Universal | Perfect | Works perfectly. Tested on Linux x86_64 (dev build) |
 
 ## Key
 
