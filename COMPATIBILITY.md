@@ -1,7 +1,8 @@
 # Game Compatibility List
 | Game | Android Version | Architecture | Status | Notes | Tested on |
 |---|---|---|---|---|---
-| BitBlocks | Android 1.1 | Universal | In-Game | Same as Little Python, though still sort of playable | Wii U (hardware) |
+| BitBlocks | Android 1.1 | Universal | Playable | Small FPS drop in menus | Wii U (hardware) |
+| NAMCO PAC-MAN | Android 1.x (pre-1.5) | Universal | Menu | Crashes when attempting to get in-game. |
 | Little Python | Android 1.6 | Universal | In-Game | Poor performance in-game, ranging from 3 to 6 FPS at times | Wii U (hardware) |
 | Little Python | Android 1.6 | Universal | Perfect | Works perfectly | Linux x86_64 (dev) |
 
