@@ -1,5 +1,5 @@
 # Terminator
-![Little Python running on real hardware](https://raw.githubusercontent.com/PortBREW/Terminator/main/imagery/2026-11-26_18.16.49.262_TV.jpg)
+![Little Python running on real hardware](https://raw.githubusercontent.com/PortBREW/Terminator/main/imagery/screenshots/2026-11-26_18.16.49.262_TV.jpg)
 
 Android recompilation for the Wii U.
 ## Note about source code
