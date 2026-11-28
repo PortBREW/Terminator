@@ -6,7 +6,7 @@ Android recompilation for the Wii U.
 Source code and builds will not be published yet until Terminator is in a decent state. We will go under a testing period eventually.
 ## Roadmap
 Native ARM games (or ones using OpenGL) are not supported yet
-* Android 1.x (Petit Four, Cupcake, Donut) - supported
+* Android 1.x (Original, Petit Four, Cupcake, Donut) - supported
 * Android 2.x (Eclair, Froyo, Gingerbread) - WIP (ARM/x86 games planned)
 * Android 3.x (Honeycomb) - planned
 * Android 4.x (Ice Cream Sandwich, Jelly Bean, KitKat) - planned
